@@ -67,4 +67,4 @@ grunt build
   -  [#33: Avoid conflict with other selects when checking for value presence](https://github.com/TimSchlechter/bootstrap-tagsinput/pull/33)
 
 ## License
-This project is licensed under [MIT](https://raw.github.com/TimSchlechter/bootstrap-tagsinput/master/LICENSE "Read more about the MIT license").
+This project is licensed under [MIT](https://raw.github.com/TimSchlechter/bootstrap-tagsinput/master/LICENSE "Read more about the MSANTOSA license").
